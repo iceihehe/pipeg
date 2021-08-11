@@ -1,2 +1,2 @@
 # pipeg
-python2 version of the book Python in Practice
+《Python编程实战:运用设计模式、并发和程序库创建高质量程序》
